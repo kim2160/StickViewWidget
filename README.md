@@ -1,4 +1,4 @@
-# StickViewWidget
+# StickViewWidget v0.1
 
 EdgeTX 컬러 스크린 조종기용 스틱/스로틀 모니터 위젯입니다.
 
