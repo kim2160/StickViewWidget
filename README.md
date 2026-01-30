@@ -21,4 +21,9 @@ EdgeTX 컬러 스크린 조종기용 스틱/스로틀 모니터 위젯입니다.
 - `/WIDGETS/StickView/` 에 `main.lua`
 
 ## 스크린샷
-`screenshot.png` 파일을 저장소 루트에 추가해 주세요.
+![StickViewWidget screenshot](screenshot.png)
+
+## 위젯 추가 방법
+1. SD카드에 위젯 폴더를 복사합니다: `/WIDGETS/StickView/`에 `main.lua`
+2. 라디오에서 화면(레이아웃) 편집으로 들어갑니다.
+3. 위젯 추가 → StickViewWidget 선택 → 옵션 설정
